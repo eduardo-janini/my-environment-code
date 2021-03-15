@@ -15,5 +15,8 @@ val Soma = (g: Int) => g + 1
 println(Soma(4))
 val add = (x: Int, y: Int) => x + y
 println(add(1,2))
-val funcaoVazia = () => "oi"
-println(funcaoVazia())
+val emptyFunction = () => "oi"
+println(emptyFunction())
+val eight = (y: Int) => 8 + y/y
+println(eight(4))
+//crazy shit 88
