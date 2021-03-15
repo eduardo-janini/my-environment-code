@@ -1,3 +1,0 @@
-object first_code {
-
-}
