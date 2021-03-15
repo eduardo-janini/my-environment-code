@@ -1,9 +1,1 @@
-[debug] Packaging C:\Users\eduar\IdeaProjects\my-environment-code\target\scala-2.13\my-environment-code_2.13-0.1.jar ...
-[debug] Input file mappings:
-[debug] 	code$.class
-[debug] 	  C:\Users\eduar\IdeaProjects\my-environment-code\target\scala-2.13\classes\code$.class
-[debug] 	code$delayedInit$body.class
-[debug] 	  C:\Users\eduar\IdeaProjects\my-environment-code\target\scala-2.13\classes\code$delayedInit$body.class
-[debug] 	code.class
-[debug] 	  C:\Users\eduar\IdeaProjects\my-environment-code\target\scala-2.13\classes\code.class
-[debug] Done packaging.
+[debug] Jar uptodate: C:\Users\eduar\IdeaProjects\my-environment-code\target\scala-2.13\my-environment-code_2.13-0.1.jar
