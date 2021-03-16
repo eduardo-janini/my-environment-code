@@ -20,3 +20,5 @@ println(emptyFunction())
 val eight = (y: Int) => 8 + y/y
 println(eight(4))
 //crazy shit 88
+var number = (w: Int, z:Int) => w*z
+println(number(5,5))
